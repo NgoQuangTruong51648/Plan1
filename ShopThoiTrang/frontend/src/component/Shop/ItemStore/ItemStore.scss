@@ -1,0 +1,127 @@
+.ItemStore {
+  width: 80%;
+  height: 420px;
+  margin: 0 auto;
+  background-color: #9ce0ff;
+  border-radius: 5px;
+  box-shadow: 0 1px 1px 0 rgb(0 0 0 / 5%);
+
+  .ItemStoreLeft {
+    padding: 20px;
+    // position: relative;
+
+    .ItemStoreLeftImgs {
+      width: 300px;
+      height: 300px;
+      // position: absolute;
+      left: 50%;
+      top: 50%;
+      margin-left: -150px;
+      margin-top: -150px;
+    }
+
+    .ItemStoreLeftImg {
+      background-position: center;
+      background-size: cover;
+    }
+
+    .ItemStoreLeftImg img {
+      display: block;
+      width: 100%;
+    }
+  }
+
+  .ItemStoreRight {
+    padding: 20px;
+
+    .ItemStoreRightHeader {
+      display: flex;
+      flex-direction: column;
+      .ItemStoreRightName {
+        font-size: 3rem;
+        font-weight: 400;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      }
+      .ItemStoreRightPrice {
+        font-size: 2rem;
+        color: #fff;
+        background-color: #50c2f6;
+        border-radius: 5px;
+        padding: 10px;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      }
+      .ItemStoreRightColor {
+        font-size: 1.4rem;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      }
+    }
+
+    .ItemStoreRightHeader > span {
+      margin: 14px 0;
+    }
+
+    .ItemStoreRightTotal {
+      display: flex;
+      align-items: center;
+
+      .addTotal {
+        display: flex;
+        align-items: center;
+      }
+
+      .addTotal > button {
+        background-color: #fff;
+        border: 0;
+        display: flex;
+        padding: 8px;
+        font-size: 1.2rem;
+        cursor: pointer;
+        border-radius: 2px;
+      }
+
+      .addTotal > input {
+        width: 28px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 4px;
+        margin: 10px 0;
+      }
+    }
+
+    .ItemStoreRightTotal > span {
+      font-size: 1.4rem;
+      margin-right: 14px;
+    }
+
+    // add sản phẩm
+    .ItemStoreRightAddProduct {
+      margin-top: 30px;
+
+      .addCartBtn {
+        display: flex;
+        align-items: center;
+        padding: 16px;
+        background-color: #fff;
+        border: 0;
+        border-radius: 5px;
+        cursor: pointer;
+
+        &:hover {
+          opacity: 0.8;
+        }
+      }
+
+      .addCartBtn > svg {
+        margin-right: 10px;
+        color: #50c2f6;
+        font-size: 1.8rem;
+      }
+
+      .addCartBtn > span {
+        color: #50c2f6;
+        font-size: 1.6rem;
+      }
+    }
+  }
+}

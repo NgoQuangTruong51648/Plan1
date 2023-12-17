@@ -1,0 +1,47 @@
+.HeaderShop {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 10px;
+  line-height: 30px;
+  align-items: center;
+
+  .HeaderLogo {
+    .Logo {
+      font-family: "Dancing Script", cursive;
+      font-size: 3rem;
+      color: rgb(87 87 102);
+    }
+  }
+
+  .HeaderList {
+    display: flex;
+    list-style: none;
+
+    .HeaderItem {
+      font-size: 1.6rem;
+      margin: 0 20px;
+    }
+
+    .HeaderItem > a {
+      font-size: 1.6rem;
+      text-decoration: none;
+      font-weight: 600;
+      color: #9c9c9c;
+    }
+  }
+
+  .HeaderMenu,
+  .HeaderCart {
+    font-size: 2rem;
+    cursor: pointer;
+    margin: 0 10px;
+
+    &:hover {
+      opacity: 0.6;
+    }
+  }
+}
+
+.active {
+  color: #000 !important;
+}

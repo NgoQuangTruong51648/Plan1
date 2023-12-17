@@ -1,0 +1,33 @@
+.Colections {
+  background-color: #50c2f6;
+  border-radius: 10px;
+
+  .ColectionsList {
+    width: 100%;
+
+    .ColectionsImg {
+      width: 100%;
+      height: 450px;
+      padding: 0 85px;
+      border-radius: 10px;
+      padding-bottom: 30px;
+    }
+
+    .ColectionsName {
+      text-align: center;
+      font-size: 2.2rem;
+      font-family: cursive;
+      color: #e8f2fa;
+      margin-top: 0;
+    }
+
+    .ColectionsPrice {
+      text-align: center;
+      color: #000;
+      font-size: 1.8rem;
+      margin: 10px 0 40px 0;
+      font-weight: 500;
+      font-family: cursive;
+    }
+  }
+}

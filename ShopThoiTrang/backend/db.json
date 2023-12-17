@@ -1,0 +1,321 @@
+{
+  "HomeMain": [
+    {
+      "id": 1,
+      "img": "https://bizweb.dktcdn.net/100/397/400/themes/781687/assets/slider_1.jpg?1618376566470",
+      "imgColections": "https://i.pinimg.com/564x/29/9b/14/299b14fbcf4baec2bf7dc78de0258fb1.jpg",
+      "nameColections": "flattering suit",
+      "priceColections": 80000
+    },
+    {
+      "id": 2,
+      "img": "https://bizweb.dktcdn.net/100/397/400/themes/781687/assets/slider_2.jpg?1618376566470",
+      "imgColections": "https://i.pinimg.com/564x/0d/88/10/0d88103b2c53e17ac534ce6824829c1d.jpg",
+      "nameColections": "office fashion",
+      "priceColections": 60000
+    },
+    {
+      "id": 3,
+      "img": "https://bizweb.dktcdn.net/100/397/400/themes/781687/assets/slider_3.jpg?1618376566470",
+      "imgColections": "https://i.pinimg.com/564x/fe/16/b8/fe16b862674c3f57125523695fa66c7c.jpg",
+      "nameColections": "Women's vest wide form",
+      "priceColections": 26000
+    }
+  ],
+  "HomePopular": [
+    {
+      "id": 1,
+      "imgItem": "https://cf.shopee.vn/file/206e8bd591b71832708d024304af3776",
+      "popularName": "trousers korean",
+      "popularOrigin": "Đà Nẵng",
+      "popularPrice": 100000
+    },
+    {
+      "id": 2,
+      "imgItem": "https://cf.shopee.vn/file/7124198306055489353ca0e899ae53ee",
+      "popularName": "dynamic outfit personality Black",
+      "popularOrigin": "Đà Nẵng",
+      "popularPrice": 100000
+    },
+    {
+      "id": 3,
+      "imgItem": "https://cf.shopee.vn/file/06f99a47c36a3268d82407aab18aced7",
+      "popularName": "dynamic outfit personality White",
+      "popularOrigin": "Đà Nẵng",
+      "popularPrice": 100000
+    },
+    {
+      "id": 4,
+      "imgItem": "https://cf.shopee.vn/file/93ba2278a92af7c62e15ccd684ae4b74",
+      "popularName": "set Moong Ga Young Korean",
+      "popularOrigin": "Đà Nẵng",
+      "popularPrice": 100000
+    },
+    {
+      "id": 5,
+      "imgItem": "https://cf.shopee.vn/file/e640644ab5a9ee216bddd4906dbd7cf6",
+      "popularName": "Jordan panda",
+      "popularOrigin": "Đà Nẵng",
+      "popularPrice": 100000
+    },
+    {
+      "id": 6,
+      "imgItem": "https://cf.shopee.vn/file/9cec6ede71e74bf19ac8d3ac5ab37597",
+      "popularName": "converse platform",
+      "popularOrigin": "Đà Nẵng",
+      "popularPrice": 100000
+    },
+    {
+      "id": 7,
+      "imgItem": "https://cf.shopee.vn/file/86f8764d29bb25a3f582efabb189da4e",
+      "popularName": "flattering dress Moong Ga Young",
+      "popularOrigin": "Đà Nẵng",
+      "popularPrice": 100000
+    },
+    {
+      "id": 8,
+      "imgItem": "https://cf.shopee.vn/file/55e74b056c26a8a5369d81a0b3500683",
+      "popularName": "high neck converse",
+      "popularOrigin": "Đà Nẵng",
+      "popularPrice": 100000
+    }
+  ],
+  "ListStore": [
+    {
+      "id": 1,
+      "img": "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://cf.shopee.vn/file/a4e86582dbc4f730aec801135ca36e90_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/a4e86582dbc4f730aec801135ca36e90_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://cf.shopee.vn/file/8a79c884dfe0263eece2a243517d9605_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/8a79c884dfe0263eece2a243517d9605_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 5,
+      "img": "https://cf.shopee.vn/file/5f58d89527105ce7dba1c4cf58d6e5f0_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/5f58d89527105ce7dba1c4cf58d6e5f0_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 6,
+      "img": "https://cf.shopee.vn/file/3e4021fe6d6c5fd18282848932f02e18_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/3e4021fe6d6c5fd18282848932f02e18_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 7,
+      "img": "https://cf.shopee.vn/file/e5a100460251998ab7b06d4b0a16e08d_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/e5a100460251998ab7b06d4b0a16e08d_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 8,
+      "img": "https://cf.shopee.vn/file/6f5e4b6407b8625aecf3c18c9662be48_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/6f5e4b6407b8625aecf3c18c9662be48_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 9,
+      "img": "https://cf.shopee.vn/file/8d433e57795e9a43053bb2d1467077f4_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/8d433e57795e9a43053bb2d1467077f4_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 10,
+      "img": "https://cf.shopee.vn/file/19daee49f5376609f093fb3759a61f56_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/19daee49f5376609f093fb3759a61f56_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 11,
+      "img": "https://cf.shopee.vn/file/c1682c0e662dcff68d767b4eef8646eb_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/c1682c0e662dcff68d767b4eef8646eb_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 12,
+      "img": "https://cf.shopee.vn/file/20a153d611b733276094f44a7d32d8a8_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/20a153d611b733276094f44a7d32d8a8_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 13,
+      "img": "https://cf.shopee.vn/file/a4e86582dbc4f730aec801135ca36e90_tn",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/a4e86582dbc4f730aec801135ca36e90_tn",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 14,
+      "img": "https://cf.shopee.vn/file/206e8bd591b71832708d024304af3776",
+      "Name": "trousers korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/206e8bd591b71832708d024304af3776",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 15,
+      "img": "https://cf.shopee.vn/file/7124198306055489353ca0e899ae53ee",
+      "Name": "dynamic outfit personality Black",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/7124198306055489353ca0e899ae53ee",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 16,
+      "img": "https://cf.shopee.vn/file/06f99a47c36a3268d82407aab18aced7",
+      "Name": "dynamic outfit personality White",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/06f99a47c36a3268d82407aab18aced7",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 17,
+      "img": "https://cf.shopee.vn/file/93ba2278a92af7c62e15ccd684ae4b74",
+      "Name": "set Moong Ga Young Korean",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/93ba2278a92af7c62e15ccd684ae4b74",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 18,
+      "img": "https://cf.shopee.vn/file/e640644ab5a9ee216bddd4906dbd7cf6",
+      "Name": "Jordan panda",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/e640644ab5a9ee216bddd4906dbd7cf6",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 19,
+      "img": "https://cf.shopee.vn/file/9cec6ede71e74bf19ac8d3ac5ab37597",
+      "Name": "converse platform",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/9cec6ede71e74bf19ac8d3ac5ab37597",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 20,
+      "img": "https://cf.shopee.vn/file/86f8764d29bb25a3f582efabb189da4e",
+      "Name": "flattering dress Moong Ga Young",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/86f8764d29bb25a3f582efabb189da4e",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    },
+    {
+      "id": 21,
+      "img": "https://cf.shopee.vn/file/55e74b056c26a8a5369d81a0b3500683",
+      "Name": "high neck converse",
+      "Origin": "Đà Nẵng",
+      "Price": "100.000",
+      "extraImg": [
+        "https://cf.shopee.vn/file/55e74b056c26a8a5369d81a0b3500683",
+        "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn"
+      ]
+    }
+  ],
+  "ListCart": [
+    {
+      "amount": 1,
+      "img": "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn",
+      "name": "set Moong Ga Young Korean",
+      "price": "100.000",
+      "id": 1
+    },
+    {
+      "amount": 1,
+      "img": "https://cf.shopee.vn/file/d0b1ac2fabf2f18527e3188e254d895d_tn",
+      "name": "set Moong Ga Young Korean",
+      "price": "100.000",
+      "id": 2
+    }
+  ]
+}

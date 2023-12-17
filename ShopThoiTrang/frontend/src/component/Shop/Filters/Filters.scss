@@ -1,0 +1,25 @@
+.Filters {
+  .FiltersHeader {
+    display: flex;
+    align-items: center;
+  }
+
+  .FiltersHeader > svg {
+    margin-right: 35px;
+    font-size: 2rem;
+    opacity: 0.8;
+  }
+
+  .FiltersHeader > h2 {
+    font-size: 1.8rem;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .FiltersPlace,
+  .FiltersType {
+    font-size: 1.4rem;
+    display: flex;
+    align-items: center;
+    margin: 30px 0;
+  }
+}

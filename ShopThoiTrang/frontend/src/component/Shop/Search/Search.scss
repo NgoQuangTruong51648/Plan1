@@ -1,0 +1,30 @@
+.ListStoreSearch {
+  position: relative;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+
+  .ListStoreBtnSearch {
+    position: absolute;
+    right: 4px;
+    height: 80%;
+    padding: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border: 0;
+    background: #50c2f6;
+    border-radius: 3px;
+    color: #fff;
+  }
+}
+
+.ListStoreSearch > input {
+  padding: 8px;
+  display: flex;
+  flex: 1;
+  font-size: 1.6rem;
+  outline: none;
+  line-height: 2.4rem;
+}

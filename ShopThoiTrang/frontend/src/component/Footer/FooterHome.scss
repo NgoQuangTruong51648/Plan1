@@ -1,0 +1,56 @@
+.Footer {
+  margin-top: 100px;
+
+  .FooterWrap {
+    padding-top: 60px;
+    position: relative;
+
+    &::after {
+      background-color: #0096da;
+      height: 3px;
+      content: "";
+      display: block;
+      width: 100%;
+      top: 0;
+      position: absolute;
+      border-radius: 50%;
+    }
+
+    .FooterMain {
+      background-color: #fbfbfb;
+      padding: 30px;
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .FooterLogo {
+        color: #575766;
+        font-family: cursive;
+        font-size: 2.6rem;
+      }
+
+      .FooterListInformation {
+        display: flex;
+        padding: 0;
+        list-style: none;
+
+        .FooterItemInformation {
+          margin: 0 10px;
+        }
+
+        .FooterItemInformation > svg {
+          margin: 0 10px;
+          font-size: 3.2rem;
+          color: #50c2f6;
+        }
+      }
+    }
+
+    .FooterMain > span {
+      margin: 6px 0;
+      opacity: 0.8;
+      font-size: 1.2rem;
+    }
+  }
+}

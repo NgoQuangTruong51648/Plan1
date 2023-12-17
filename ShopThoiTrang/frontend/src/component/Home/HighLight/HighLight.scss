@@ -1,0 +1,33 @@
+.HighLightList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0;
+
+  .HighLightItem {
+    display: flex;
+    flex-direction: column;
+    margin: 0 60px;
+    padding: 30px;
+    border: 1px solid #e0e0e0;
+    border-radius: 7px;
+    word-wrap: break-word;
+
+    .HighLightIcon {
+      font-size: 4rem;
+      color: #0096da;
+    }
+  }
+
+  .HighLightItem > h2 {
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    margin: 26px 0;
+  }
+
+  .HighLightItem > span {
+    font-size: 1.4rem;
+    line-height: 2.2rem;
+    margin: 26px 0;
+  }
+}
